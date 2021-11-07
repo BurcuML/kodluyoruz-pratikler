@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\Kodluyoruz Çalışmalar\\kodluyoruz-pratikler\\degisken\\degisken.csproj": {}
+    "C:\\Users\\USER\\Desktop\\Kodluyoruz Çalışmalar\\kodluyoruz-pratikler\\operatorler\\operatorler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\Kodluyoruz Çalışmalar\\kodluyoruz-pratikler\\degisken\\degisken.csproj": {
+    "C:\\Users\\USER\\Desktop\\Kodluyoruz Çalışmalar\\kodluyoruz-pratikler\\operatorler\\operatorler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Kodluyoruz Çalışmalar\\kodluyoruz-pratikler\\degisken\\degisken.csproj",
-        "projectName": "degisken",
-        "projectPath": "C:\\Users\\USER\\Desktop\\Kodluyoruz Çalışmalar\\kodluyoruz-pratikler\\degisken\\degisken.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Kodluyoruz Çalışmalar\\kodluyoruz-pratikler\\operatorler\\operatorler.csproj",
+        "projectName": "operatorler",
+        "projectPath": "C:\\Users\\USER\\Desktop\\Kodluyoruz Çalışmalar\\kodluyoruz-pratikler\\operatorler\\operatorler.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\Kodluyoruz Çalışmalar\\kodluyoruz-pratikler\\degisken\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\Kodluyoruz Çalışmalar\\kodluyoruz-pratikler\\operatorler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

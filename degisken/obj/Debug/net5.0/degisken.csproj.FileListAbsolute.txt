@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\Kodluyoruz Çalışmalar\kodluyoruz-pratikler\degisken\obj\Debug\net5.0\degisken.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Kodluyoruz Çalışmalar\kodluyoruz-pratikler\degisken\obj\Debug\net5.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Kodluyoruz Çalışmalar\kodluyoruz-pratikler\degisken\obj\Debug\net5.0\degisken.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Kodluyoruz Çalışmalar\kodluyoruz-pratikler\degisken\obj\Debug\net5.0\degisken.AssemblyInfo.cs
+C:\Users\USER\Desktop\Kodluyoruz Çalışmalar\kodluyoruz-pratikler\degisken\obj\Debug\net5.0\degisken.csproj.CoreCompileInputs.cache
